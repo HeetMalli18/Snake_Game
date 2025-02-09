@@ -58,6 +58,5 @@ This is a classic Snake game implemented in C++ using the Windows console. The g
 - Jainish Chaudhary
 - Krish Paghdar
 
-## License
-This project is open-source and available under the MIT License.
+
 
