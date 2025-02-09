@@ -54,7 +54,7 @@ This is a classic Snake game implemented in C++ using the Windows console. The g
 
 ## Contributors
 - Heet Malli
-- Aum Vaghela
+- Om Vaghela
 - Jainish Chaudhary
 - Krish Paghdar
 
